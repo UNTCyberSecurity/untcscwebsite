@@ -12,10 +12,12 @@ images:
 <ul class="photo-gallery">
   {% for image in page.images %}
   <li style="list-style-type:none">
-    <a href="{{image.link}}">
-      <img src="{{ image.image_path }}" alt="{{ image.title }}">
-    </a>
-    <center>{{image.title}}</center>
+    <center>
+      <a href="{{image.link}}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+      {{image.title}}
+    </center>
   </li>
   {% endfor %}
 </ul>
