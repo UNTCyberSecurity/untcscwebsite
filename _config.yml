@@ -23,13 +23,13 @@ description: Cybercop wannabees
 
 # List of links in the navigation bar
 navbar-links:
-  About Me: "aboutme"
+  About: "about"
+  Blog/Newletters: "blog"
   Resources:
     - Beautiful Jekyll: "http://deanattali.com/beautiful-jekyll/"
     - Learn markdown: "http://www.markdowntutorial.com/"
-    - GitHub Pages: "https://pages.gitlab.io/"
-    - UNT: "https://unt.edu/"
-  Author's home: "http://deanattali.com"
+    - GitLab Pages: "https://pages.gitlab.io/"
+  Events: "events"
 
 # Image to show in the navigation bar - image must be a square (width = height)
 # Remove this parameter if you don't want an image in the navbar
@@ -117,6 +117,7 @@ timezone: "America/Vancouver"
 markdown: kramdown
 highlighter: rouge
 permalink: /:year-:month-:day-:title/
+paginate_path: "blog/page:num"
 paginate: 5
 
 kramdown:
@@ -144,6 +145,7 @@ link-tags: false
 
 # Exclude these files from production site
 exclude:
+  - notes.odt
   - Gemfile
   - Gemfile.lock
   - LICENSE
