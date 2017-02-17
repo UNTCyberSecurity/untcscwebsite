@@ -4,3 +4,10 @@ title: Events
 subtitle: Come join us for some cyber security fun!
 use-site-title: false
 ---
+<center>
+  {% for events in site.events %}
+  <div class="events">
+    <h2><a href="{{ events.url}}">{{ events.title}}</a></h2>
+  </div>
+  {% endfor %}
+</center>
