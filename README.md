@@ -1,4 +1,4 @@
-UNTCSC.gitlab.io
+http://www.UNTCSC.gitlab.io
 
 The website for the Cyber Security Club at the University of North Texas
 
