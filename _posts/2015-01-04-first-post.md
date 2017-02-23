@@ -1,8 +1,16 @@
 ---
 layout: post
 title: First post!
-image: /img/hello_world.jpeg
-tags: [random, exciting-stuff]
+image: https://upload.wikimedia.org/wikipedia/en/7/7d/Johnny_mnemonic_short_story.jpg
+tags: [random]
 ---
 
-This is my first post, how exciting!
+This is the very first post of the Cyber Security Club site!
+In the coming future this is where our newletters and blog posts will be
+
+For now enjoy this quote from William Gibson's [Johnny Mnemonic](https://en.wikipedia.org/wiki/Johnny_Mnemonic)
+
+>“We're an information economy. They teach you that in school. What they don't tell you is that it's impossible to move, to live, to operate at any level without leaving traces, bits, seemingly meaningless fragments of personal information. Fragments that can be retrieved, amplified...”
+
+
+Jesse Culver
