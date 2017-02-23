@@ -1,7 +1,7 @@
 ---
 layout: post
 title: First post!
-image: https://upload.wikimedia.org/wikipedia/en/7/7d/Johnny_mnemonic_short_story.jpg
+image: /img/logo_fill.png
 tags: [random]
 ---
 
