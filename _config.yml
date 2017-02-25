@@ -24,7 +24,7 @@ description: Cybercop wannabees
 # List of links in the navigation bar
 navbar-links:
   About: "about"
-  Blog/Newletters: "blog"
+  Blog/Newsletters: "blog"
   Resources:
     - OWASP: "https://www.owasp.org/index.php/Main_Page"
     - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
