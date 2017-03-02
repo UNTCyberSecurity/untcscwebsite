@@ -16,9 +16,9 @@ pages:
   script:
   - bundle
   - bundle exec jekyll build -d public
+  - cp ./public/.well-known/acme-challenge/L1_OTuTgE_VhmqwvShP9WbFsrREG2Wcu5YLf6eLMgYk.html ./public/.well-known/acme-challenge/L1_OTuTgE_VhmqwvShP9WbFsrREG2Wcu5YLf6eLMgYk
   artifacts:
     paths:
     - public
   only:
   - master
-

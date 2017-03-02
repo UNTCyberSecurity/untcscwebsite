@@ -8,7 +8,6 @@ url: "https://untcsc.gitlab.io"
 baseurl: ""
 
 
-keep_files: /.well-known/acme-challenge/L1_OTuTgE_VhmqwvShP9WbFsrREG2Wcu5YLf6eLMgYk
 # If you are building a GitHub project page then use these settings:
 #url: "http://username.github.io/projectname"
 #baseurl: "/projectname"
