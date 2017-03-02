@@ -24,7 +24,7 @@ We are also hoping to expand out and have some meetings on the main campus as we
 
 ### I can't make that time is there anyway I can still be involved?
 
-Sure! We have a [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g) server setup that acts as our main means of communication, if you want to join just send us an [email](mailto:untccsi@gmail.com) from your UNT email address and we will add you to it. In addition we also have a number of subgroups that anyone is welcome to join who meet up every so often. You can also expect to see us posting what happens and what is going to happen at each meeting here on the site!
+Sure! We have a [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g) server setup that acts as our main means of communication, if you want to join just use this [link](https://untccsi.slack.com/signup) and be sure to use your UNT email address. In addition we also have a number of subgroups that anyone is welcome to join who meet up every so often. You can also expect to see us posting what happens and what is going to happen at each meeting here on the site!
 
 ### What organizations are you involved with?
 
