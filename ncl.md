@@ -40,12 +40,12 @@ When it asks for Faculty/Coach please use Dr. Takabi's information:
 
 ### Important Dates
 
-* 2/25 - 3/25:    Registration is open
-* 4/1:            Gym Opens, Credentials sent
-* 4/11:           Stadium Credentials sent
-* 4/13:           Stadium Opens
-* 4/13 - 4/17:    Preseason Game
-* 4/13 - 4/20:    Postseason Registration
-* 4/21 - 4/23:    Regular Season Game
-* 4/28 - 4/30:    Postseason Game
-* 5/19:           Spring Season Ends
+* 2/25 - 3/25:----Registration is open
+* 4/1:------------Gym Opens, Credentials sent
+* 4/11:-----------Stadium Credentials sent
+* 4/13:-----------Stadium Opens
+* 4/13 - 4/17:----Preseason Game
+* 4/13 - 4/20:----Postseason Registration
+* 4/21 - 4/23:----Regular Season Game
+* 4/28 - 4/30:----Postseason Game
+* 5/19:-----------Spring Season Ends

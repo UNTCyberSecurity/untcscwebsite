@@ -8,6 +8,8 @@ subtitle: Cybercops in training
 
 The University of North Texas Cyber Security Club provides students with an opportunity to learn about the concepts and techniques of [information security](https://en.wikipedia.org/wiki/Information_security) and to network with current security professionals in the north Texas region.
 
+You can read our [constitution here](https://drive.google.com/file/d/0B9A3Z9_HMQERODhZUzRpR09PQmc/view?usp=sharing)
+
 ### I don't know anything about cyber security or even computers in general can I still join?
 
 Yes! We don't expect you to be an engineering major or have any super in depth knowledge about computers. Our club is all about [teaching](https://youtu.be/KEkrWRHCDQU), mentoring, and providing people with the resources they need to learn. A number of our members have started off knowing nothing about cyber security and went on to become club officers and get jobs in the field!
