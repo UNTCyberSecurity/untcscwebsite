@@ -7,7 +7,7 @@ This Spring join Cyber Security, ASME, and IEEE CS as we host a LAN party here a
 Play games, eat food, make friends, and create fun memories as we all get together for a day
 of hanging out at one of UNT's most unique buildings.
 
-Live on campus? [Bus's run from the GAB on main campus to Discovery Park](http://transportation.unt.edu/transit/maps-routes/discovery-park) between
+Live on campus? [Buses run from the GAB on main campus to Discovery Park](http://transportation.unt.edu/transit/maps-routes/discovery-park) between
 7:15 AM and  6:00 PM on Saturday's and the [E-Ride Service](http://transportation.unt.edu/content/e-ride-service) runs from 4 PM to 2 AM
 **for students with a valid student ID**
 
