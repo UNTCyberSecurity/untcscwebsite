@@ -13,9 +13,11 @@ Live on campus? [Buses run from the GAB on main campus to Discovery Park](http:/
 
 ### When and where:
 
-March 25th, the weekend after spring break, here at Discovery Park
+March 25th, the weekend after spring break, here at Discovery Park starting at around ~10 A.M.
 
-Room and time details to be announced later via E-Mail and this page
+Lunch will be served at noon.
+
+Room details to be announced later via E-Mail and this page
 
 ### Games:
 
