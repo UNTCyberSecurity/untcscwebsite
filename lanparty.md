@@ -3,7 +3,7 @@ layout: page
 title: Discovery Park LAN Party
 ---
 
-This Spring join Cyber Security, ASME, and IEE CS as we host a LAN party here at Discovery Park.
+This Spring join Cyber Security, ASME, and IEEE CS as we host a LAN party here at Discovery Park.
 Play games, eat food, make friends, and create fun memories as we all get together for a day
 of hanging out at one of UNT's most unique buildings.
 
