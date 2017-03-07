@@ -23,7 +23,7 @@ NCL will provide a series of challenges for both individuals (pre/regular season
 ### I don't know anything about cyber security though
 
 That's okay a lot of our members start out in the same position! A number of challenges in NCL can be solved just by knowing how to use Google to look up the information you need.
-In addition to that you will have other members of the club available to ask questions if you get stuck.
+In addition to that you will have other members of the club available to ask for guidance to help get you pointed in the right direction if you get stuck.
 
 ### How does registration work?
 
