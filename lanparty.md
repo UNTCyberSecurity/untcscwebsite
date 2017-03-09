@@ -40,3 +40,7 @@ keyboard or mouse feel free to though.
 
 Right now we are planning for it to be free for all but if enough people sign up
 and show an interest in some team based gameplay we might add it!
+
+<center>
+<iframe width="560" height="315" src="https://www.youtube.com/embed/2gmQYBZPV7g" frameborder="0" allowfullscreen></iframe>
+</center>
