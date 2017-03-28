@@ -13,7 +13,7 @@ Live on campus? [Buses run from the GAB on main campus to Discovery Park](http:/
 
 ### When and where:
 
-March 25th, the weekend after spring break, here at Discovery Park starting at around ~10 A.M.
+April 1st, the weekend after spring break, here at Discovery Park starting at around ~10 A.M.
 
 Lunch will be served at noon.
 
@@ -25,7 +25,7 @@ Room details to be announced later via E-Mail and this page
 
 * [Xonotic](http://www.xonotic.org/)
 
-* Age of Empires 2
+* Star Craft
 
 ### How to Sign Up:
 
