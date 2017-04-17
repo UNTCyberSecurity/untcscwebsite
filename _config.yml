@@ -4,7 +4,7 @@
 # baseurl is the website's URL without the hostname
 
 # If you are building a simple GitHub user page (http://username.github.io) then use these settings:
-url: "https://ntcybersecurity.com"
+url: "https://untcybersecurity.com"
 baseurl: ""
 
 
@@ -27,6 +27,7 @@ navbar-links:
   About: "about"
   Blog/Newsletters: "blog"
   Resources:
+    - Our Wiki: "https://wiki.untcybersecurity.com"
     - OWASP: "https://www.owasp.org/index.php/Main_Page"
     - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
     - Open Security Training: "http://opensecuritytraining.info/Welcome.html"
@@ -46,6 +47,8 @@ avatar: "/img/logo_fill.png"
 
 collections:
   events:
+    output: true
+  pastevents:
     output: true
 
 
