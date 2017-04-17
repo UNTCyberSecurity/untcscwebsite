@@ -32,8 +32,7 @@ navbar-links:
     - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
     - Open Security Training: "http://opensecuritytraining.info/Welcome.html"
   Events:
-    - Upcoming: "events"
-    - LAN Party: "lanparty"
+    - Upcoming/Past: "events"
     - NCL: "ncl"
     - Ultimate Challenge: "ultimatechallenge"
 
