@@ -12,11 +12,11 @@ You can read our [constitution here](https://drive.google.com/file/d/0B9A3Z9_HMQ
 
 ### I don't know anything about cyber security or even computers in general can I still join?
 
-Yes! We don't expect you to be an engineering major or have any super in depth knowledge about computers. Our club is all about [teaching](https://youtu.be/KEkrWRHCDQU), mentoring, and providing people with the resources they need to learn. A number of our members have started off knowing nothing about cyber security and went on to become club officers and get jobs in the field!
+Yes! We don't expect you to be an engineering major or have any super in depth knowledge about computers. Our club is all about [teaching](https://youtu.be/KEkrWRHCDQU), mentoring, and providing people with the resources they need to learn. A number of our members have started off knowing nothing about cyber security and went on to become club officers and get jobs in the industry!
 
 ### When and where do you meet?
 
-We normally meet on Fridays from 3:00 P.M. to 4:00 P.M. at Discovery Park in F223 but that has been being changed around a lot lately because of how many awesome new members we have had join! So be sure to check our calendar as that will have the most up to date information.
+We normally meet on Fridays from 4:00 P.M. to 5:00 P.M. at Discovery Park in B185. Be sure to check our calendar as that will have the most up to date information in case there is an event going on that has us located somewhere else.
 
 If you need to take the bus be sure to check out the [Discovery Park bus route](http://transportation.unt.edu/transit/maps-routes/discovery-park). The bus's normally stop running around 6:00 P.M. on Friday's. If you are in need of a ride to or from campus be sure to ask us and we can go about setting up a car pool.
 
@@ -38,5 +38,5 @@ If you are interested in getting involved with us send us an [email](mailto:untc
 * [National Collegiate Cyber Defense Competition](http://www.nationalccdc.org/)
 * Capture the Flag Competitions
 * Hackathons
-* Buildathons
 * Conferences
+* Fun social events like LAN parties and board game nights
