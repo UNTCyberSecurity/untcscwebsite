@@ -1,0 +1,12 @@
+ToDo
+
+This is a list of things that need to be done for the website
+
+* Officers Page
+* Alumni Page
+* Setup Tutorials and Resources pages, use the blog posts as an example of how to do this. Should use tags.
+* NCL Update
+* Add new photos to front of website
+* Google analytics maybe?
+* Add LinkedIn to footer (see config.yml)
+* Add Friends of Club page for sponsors and frequent guests

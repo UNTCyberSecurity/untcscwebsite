@@ -9,15 +9,38 @@ images:
   - image_path: /img/issa/issaFeb_16_2017.jpg
     title: ISSA February Meeting
 ---
-<ul class="photo-gallery">
+
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="photo-gallery">
   {% for image in page.images %}
   <li style="list-style-type:none">
     <center>
       <a href="{{image.link}}">
-        <img src="{{ image.image_path }}" alt="{{ image.title }}" align ="middle">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
       </a>
       {{image.title}}
     </center>
   </li>
   {% endfor %}
+</div>
+
+{% if paginator.total_pages > 1 %}
+<ul class="pager main-pager">
+  {% if paginator.previous_page %}
+  <li class="previous">
+    <a href="{{ paginator.previous_page_path | prepend: site.baseurl | replace: '//', '/' }}">&larr; Newer Posts</a>
+  </li>
+  {% endif %}
+  {% if paginator.next_page %}
+  <li class="next">
+    <a href="{{ paginator.next_page_path | prepend: site.baseurl | replace: '//', '/' }}">Older Posts &rarr;</a>
+  </li>
+  {% endif %}
 </ul>
+{% endif %}

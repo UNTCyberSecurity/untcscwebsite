@@ -16,15 +16,15 @@ Yes! We don't expect you to be an engineering major or have any super in depth k
 
 ### When and where do you meet?
 
-We normally meet on Fridays from 4:00 P.M. to 5:00 P.M. at Discovery Park in B185. Be sure to check our calendar as that will have the most up to date information in case there is an event going on that has us located somewhere else.
+We normally meet on Thursday from 5:00 P.M. to 6:00 P.M. at Discovery Park in B185. Be sure to check our calendar as that will have the most up to date information in case there is an event going on that has us located somewhere else.
 
-If you need to take the bus be sure to check out the [Discovery Park bus route](http://transportation.unt.edu/transit/maps-routes/discovery-park). The bus's normally stop running around 6:00 P.M. on Friday's. If you are in need of a ride to or from campus be sure to ask us and we can go about setting up a car pool.
+If you need to take the bus be sure to check out the [Discovery Park bus route](http://transportation.unt.edu/transit/maps-routes/discovery-park).
 
 We are also hoping to expand out and have some meetings on the main campus as we know Discovery Park is not the most convenient location for non engineering majors.
 
 ### I can't make that time is there anyway I can still be involved?
 
-Sure! We have a [Slack](https://www.youtube.com/watch?v=9RJZMSsH7-g) server setup that acts as our main means of communication, if you want to join just use this [link](https://untccsi.slack.com/signup) and be sure to use your UNT email address. In addition we also have a number of subgroups that anyone is welcome to join who meet up every so often. You can also expect to see us posting what happens and what is going to happen at each meeting here on the site!
+Sure! We are on the [UNT Engineering Discord](https://discord.gg/j3D5Zdp) server setup that acts as our main means of communication, if you want to join click the link and read through the rules and post in the introduction channel. You can also expect to see us posting what happens and what is going to happen at each meeting here on the site!
 
 ### What organizations are you involved with?
 
