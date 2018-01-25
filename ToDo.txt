@@ -10,3 +10,4 @@ This is a list of things that need to be done for the website
 * Google analytics maybe?
 * Add LinkedIn to footer (see config.yml)
 * Add Friends of Club page for sponsors and frequent guests
+* Work on mobile view
