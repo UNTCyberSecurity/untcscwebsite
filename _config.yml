@@ -27,7 +27,7 @@ navbar-links:
     - About Us: "about"
   Blog/Newsletters: "blog"
   Resources:
-    - Our Discord: "https://discord.gg/j3D5Zdp"
+    - Our Discord: "discord"
     - OWASP: "https://www.owasp.org/index.php/Main_Page"
     - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
     - Open Security Training: "http://opensecuritytraining.info/Welcome.html"
