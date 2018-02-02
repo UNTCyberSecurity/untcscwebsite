@@ -95,3 +95,9 @@ yelp:
   name: "Yelp"
   baseURL: "https://{{ site.author.yelp }}.yelp.com"
   icon: "fa-yelp"
+
+discord:
+  name : "Discord"
+  baseURL: "https://discordapp.com/"
+  icon: "fa-discord"
+
