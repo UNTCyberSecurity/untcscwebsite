@@ -98,6 +98,6 @@ yelp:
 
 discord:
   name : "Discord"
-  baseURL: "https://discordapp.com/"
+  baseURL: "https://discord.gg/"
   icon: "fa-discord"
 
