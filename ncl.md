@@ -3,8 +3,27 @@ layout: page
 title: National Cyber League
 images:
   - image_path: /img/NCL_PAGE.png
-    
+
 ---
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="photo-gallery">
+  {% for image in page.images %}
+  <li style="list-style-type:none">
+    <center>
+      <a href="{{image.link}}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+      {{image.title}}
+    </center>
+  </li>
+  {% endfor %}
+</div>
 
 ### What is National Cyber League?
 
