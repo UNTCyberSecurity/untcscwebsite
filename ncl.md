@@ -31,7 +31,7 @@ img {
 
 NCL will provide a series of challenges for both individuals (pre/regular season) and teams (postseason) to compete and then rank them against their peers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0-pAP283zk" frameborder="0" allowfullscreen></iframe>
+<iframe width="600" height="315" src="https://www.youtube.com/embed/E0-pAP283zk" frameborder="0" allowfullscreen></iframe>
 
 ### Why should I participate?
 
@@ -57,10 +57,10 @@ When it asks for Faculty/Coach please use Dr. Takabi's information:
 
 ### Important Dates
 
-| 2/26 - 3/25   | Regular Season Registration (late registration of $35 is 3/26- 11:59 p.m. ET 3/28) |
-| 2/26 - 4/25   | Postseason Registration (must have played regular season to play postseason) |
-| 3/30 - 5/25   | Gym Training         			|
-| 4/4 - 4/10 	| Preseason Game                |
-| 4/13 - 4/15   | Regular Season Game           |
-| 4/27 - 4/29 	| Postseason Game               |
+| 2/26-3/25   | Regular Season Registration (late registration of $35 is 3/26- 11:59 p.m. ET 3/28) |
+| 2/26-4/25   | Postseason Registration (must have played regular season to play postseason) |
+| 3/30-5/25   | Gym Training         			|
+| 4/4-4/10 	| Preseason Game                |
+| 4/13-4/15   | Regular Season Game           |
+| 4/27-4/29 	| Postseason Game               |
 | 5/25 			| Spring Season Ends            |
