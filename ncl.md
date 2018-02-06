@@ -1,6 +1,9 @@
 ---
 layout: page
 title: National Cyber League
+images:
+  - image_path: /img/NCL_PAGE.png
+    
 ---
 
 ### What is National Cyber League?
@@ -26,7 +29,7 @@ That's okay a lot of our members start out in the same position! A number of cha
 
 ### How does registration work?
 
-[From August 28th to September 29th registration is open](https://ncl.cyberskyline.com/events/ncl/fall/regular). Sign up fee is $25.
+[From February 28th to March 25th registration is open](https://ncl.cyberskyline.com/events/ncl/fall/regular). Sign up fee is $25.
 
 When it asks for Faculty/Coach please use Dr. Takabi's information:
 
@@ -35,12 +38,10 @@ When it asks for Faculty/Coach please use Dr. Takabi's information:
 
 ### Important Dates
 
-| 8/28 - 9/29   | Registration is open                    |
-| 9/30 - 10/1   | Late Registration for an additional $10 |
-| 10/09         | Gym Opens, Credentials sent             |
-| 10/20 - 10/28 | Mandatory Preseason Game                |
-| 10/30         | Bracket assignments in Stadium          |
-| 11/03 - 11/05 | Regular Season                          |
-| 11/06 - 11/13 | Postseason Registration                 |
-| 11/17 - 11/19 | Postseason Game                         |
-| 12/16         | Fall Season Ends                        |
+| 2/26 - 3/25   | Regular Season Registration (late registration of $35 is 3/26- 11:59 p.m. ET 3/28) |
+| 2/26 - 4/25   | Postseason Registration (must have played regular season to play postseason) |
+| 3/30 - 5/25   | Gym Training         			|
+| 4/4 - 4/10 	| Preseason Game                |
+| 4/13 - 4/15   | Regular Season Game           |
+| 4/27 - 4/29 	| Postseason Game               |
+| 5/25 			| Spring Season Ends            |
