@@ -31,7 +31,13 @@ img {
 
 NCL will provide a series of challenges for both individuals (pre/regular season) and teams (postseason) to compete and then rank them against their peers.
 
-<iframe width="560" height="315" src="https://www.youtube.com/embed/E0-pAP283zk" frameborder="0" allow="autoplay; encrypted-media" allowfullscreen></iframe>
+<div class="video-holder">
+  <iframe width="560"
+          height="315" 
+          src="https://www.youtube.com/embed/E0-pAP283zk"
+          frameborder="0" 
+          allowfullscreen></iframe>
+</div>
 
 ### Why should I participate?
 
