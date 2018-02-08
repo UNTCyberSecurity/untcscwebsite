@@ -789,20 +789,6 @@ td.gutter {
   height: 100%;
 }
 
-.signin-holder { /* Edited by Allan Chang, signin-Holder will allow embeded VIDEO and Sign sheet being mobile friendly */
-  position: relative;
-  width: 100%;
-  height: 100%;
-  padding-bottom: 56.25%;
-  overflow: hidden;
-}
-
-.signin-holder iframe {
-  position: absolute;
-  top: 0;
-  left: 0;
-  width: 100%;
-  height: 100%;
-}
+.responsive-wrap iframe{ max-width: 100%;} /*google signin sheet responsive*/
 
 
