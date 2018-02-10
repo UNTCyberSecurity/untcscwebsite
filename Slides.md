@@ -27,4 +27,15 @@ title: National Cyber League
 
 <script async class="speakerdeck-embed" data-id="72027a371aa547e29564353e11c1e6b4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+### Meeting Feb 8 / 2018
+
+# At todays meeting we discussed:
+
+* WireShark Demo by our network expert Chad Leito
+* SDN network
+* GNS3 Demo
+
+<script async class="speakerdeck-embed" data-id="e41ba43af03a4cfe87a7781e5409bf4d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+<script async class="speakerdeck-embed" data-id="fac23585f70a439c92fc5bf0b7dc3d84" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 
