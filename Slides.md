@@ -31,12 +31,13 @@ title: National Cyber League
 
 # At todays meeting we discussed:
 
-* WireShark Demo by wieshare expert Chad Leito
+* WireShark Demo by wieshark expert Chad Leito
 * SDN network by Allan Chang
 * GNS3 Demo
 * pineapple by Jesse
 
 <script async class="speakerdeck-embed" data-id="e41ba43af03a4cfe87a7781e5409bf4d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 <script async class="speakerdeck-embed" data-id="fac23585f70a439c92fc5bf0b7dc3d84" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 
