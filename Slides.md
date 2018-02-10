@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Meeting Slides and meeting notes
+title: Meeting Slides And Meeting Notes
 ---
 
 ### In here, You will find weekly meeting slides and notes if you missed a meeting!
