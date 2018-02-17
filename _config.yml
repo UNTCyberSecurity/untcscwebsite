@@ -55,6 +55,8 @@ collections:
     output: true
   pastevents:
     output: true
+  subgroup:
+    output: true
 
 # --- Background colour/image options --- #
 

@@ -10,7 +10,7 @@ use-site-title: false
 <center>
   <div><h1>Past Meeting:</h1></div>
   {% for subgroup in site.subgroup reversed %}
-  <div class="events">
+  <div class="event">
     <h2><a href="{{ subgroup.url}}">{{ subgroup.title}}</a></h2>
   </div>
   {% endfor %}
