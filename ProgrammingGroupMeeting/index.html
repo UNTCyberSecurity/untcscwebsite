@@ -1,0 +1,17 @@
+---
+layout: page
+title: Programming Group Meeting
+subtitle: Come join us to sharp your developing skills!
+use-site-title: false
+---
+
+<div>Programming Subgroup meetings are from 6:30 - 7:30 P.M. on Monday at Discovery Parks bottom floor computer lab (B129) study rooms near the back entrance, our senior developer Zach Langley will guide you to kick off your side projects! It is time to make some thing awesome and show off your skills to your futur employer! </div>
+
+<center>
+  <div><h1>Past Meeting:</h1></div>
+  {% for subgroup in site.subgroup reversed %}
+  <div class="subgroup">
+    <h2><a href="{{ subgroup.url}}">{{ subgroup.title}}</a></h2>
+  </div>
+  {% endfor %}
+</center>
