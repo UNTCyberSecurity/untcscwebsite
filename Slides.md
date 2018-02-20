@@ -13,6 +13,8 @@ title: Meeting Slides And Meeting Notes
 * Cyber Secuirty Club Programming sub-group
 * Demo of Robber Ducky 
 
+<div><a href="https://untcybersecurity.com/meeting_notes/First_Meeting_CCSI.pdf" target="_blank">You can read this meeting's notes at here</a></div>
+
 ## Our first meeting slides
 
 <script async class="speakerdeck-embed" data-id="5d1388ae1ee14ed39db1c0c374f6ad55" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
@@ -25,6 +27,9 @@ title: Meeting Slides And Meeting Notes
 * Cyber Secuirty Club Programming sub-group
 * Demo for Tor and proxychains
 
+<div><a href="https://untcybersecurity.com/meeting_notes/Second_Meeting_CCSI.pdf" target="_blank">You can read this meeting's notes at here</a></div>
+
+
 <script async class="speakerdeck-embed" data-id="72027a371aa547e29564353e11c1e6b4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Meeting Feb 8 / 2018
@@ -35,6 +40,8 @@ title: Meeting Slides And Meeting Notes
 * SDN network by Allan Chang
 * GNS3 Demo
 * pineapple by Jesse
+
+<div><a href="https://untcybersecurity.com/meeting_notes/Third_Meeting_CCSI.pdf" target="_blank">You can read this meeting's notes at here</a></div>
 
 <script async class="speakerdeck-embed" data-id="e41ba43af03a4cfe87a7781e5409bf4d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
