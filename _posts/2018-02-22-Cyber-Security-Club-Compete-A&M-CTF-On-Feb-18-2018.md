@@ -4,7 +4,7 @@ title: UNT Cyber Security Club Competed A&M CTF On Feb 18, 2018
 tags: [CTF]
 images: 
   - image_path: /img/CTF_feb_18.jpg
-    title: Allan Chang, Jeremiah(CFT Captin), Chalet
+    title: Allan Chang, Jeremiah(CTF Captin), Chalet
   - image_path: /img/CTF_2018_feb_18-1.png
     title: Happy CTF time!
   - image_path: /img/CTF_2018_feb_18.png
