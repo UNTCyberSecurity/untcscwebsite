@@ -31,3 +31,6 @@ Why Am I Love to go to CTF with my Club?
 >Allan: UNT cyber security club always provide me a plantform to learn, to grow and to gain hands on experience in different cyber security fields. I love CTF because it is always fun to find out where the "bad guy" comes from and what they did in those traffics between different hosts. Also, working as a team is fun because you can help each other when other needs help on certain piece of problem. I always love to see our team work hard and solve one particular problem together. That truly bring me a lot of happyiness and joy! CTF truly is a way challenge me to learn more about cyber security in my daily life.
 
 >Jesse (UNT Cyber Security Club President):I find CTF's to be fun because they're a good way to test your skills. It's also great because you get to actually do attacks on a system in a simulated environment without getting arrested. Plus it is always fun just hanging out with friends and trying to solve problems.
+
+
+Allan Chang
