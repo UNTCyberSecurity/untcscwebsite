@@ -38,9 +38,10 @@ Digital invisible ink tookkit - helps you find flag under the cover images [clic
 
 some common dicionaries will help you crack passwords:
 Rokyou
+
 [Weakpass](https://weakpass.com/)
 
-Wifi Cracking, This guy legit teachs you how to crack your neighbor's wifi access point! Use this tutorial for NCL bro. [click here to watch the playlists](https://www.youtube.com/watch?v=wd9KdsxTVa8&list=PL6gx4Cwl9DGC04FAovs0lswXTPXeomORn) 
+Wi-Fi Cracking, how to gain access to a Wi-Fi access point [click here to watch the playlists](https://www.youtube.com/watch?v=wd9KdsxTVa8&list=PL6gx4Cwl9DGC04FAovs0lswXTPXeomORn) 
 
 [Nmap some targets](https://www.youtube.com/watch?v=3Ab1gw8vQjg&list=PL6gx4Cwl9DGBsINfLVidNVaZ-7_v1NJIo)
 
