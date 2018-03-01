@@ -4,6 +4,26 @@ title: National Cyber League Resources
 images:
   - image_path: /img/hacking.jpg
 ---
+
+<style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="photo-gallery">
+  {% for image in page.images %}
+  <li style="list-style-type:none">
+    <center>
+      <a href="{{image.link}}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+      {{image.title}}
+    </center>
+  </li>
+  {% endfor %}
+</div>
 You have never done a NCL before and think how to start ?
 
 Here is a list of tools or resources might help you doing well in NCL!
