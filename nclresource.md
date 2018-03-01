@@ -31,9 +31,11 @@ Wifi Cracking, This guy legit teachs you how to crack your neighbor's wifi acces
 some decoder you wanna to use during NCL:
 
 <http://theblob.org/rot.cgi>
+
 <https://www.dcode.fr/caesar-cipher>
 
 <http://rumkin.com/tools/cipher>
 
 <https://md5hashing.net/>
+
 <https://www.asciitohex.com/>
