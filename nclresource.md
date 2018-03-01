@@ -6,7 +6,7 @@ images:
 ---
 You have never done a NCL before and think how to start ?
 
-Here is a list of tools or resource might help you doing well in NCL!
+Here is a list of tools or resources might help you doing well in NCL!
 
 [Wireshark - Networking Traffic Analysis](https://www.wireshark.org/) 
 
