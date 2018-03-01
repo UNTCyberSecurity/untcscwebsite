@@ -28,10 +28,12 @@ Wifi Cracking, This guy legit teachs you how to crack your neighbor's wifi acces
 
 [Wireshark Tutorials if you have time to watch, if you do not, just learn it at NCL LOL](https://www.youtube.com/watch?v=flDzURAm8wQ&list=PL6gx4Cwl9DGBI2ZFuyZOl5Q7sptR7PwYN)
 
-some decoder you wanna to use during NCL
+some decoder you wanna to use during NCL:
 
 <http://theblob.org/rot.cgi>
 <https://www.dcode.fr/caesar-cipher>
+
 <http://rumkin.com/tools/cipher>
+
 <https://md5hashing.net/>
 <https://www.asciitohex.com/>
