@@ -27,7 +27,6 @@ navbar-links:
     - About Us: "about"
   Blog/Newsletters: "blog"
   Resources:
-    - NCL Resources: "nclresource"
     - Our Discord: "discord"
     - OWASP: "https://www.owasp.org/index.php/Main_Page"
     - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
@@ -95,8 +94,8 @@ social-network-links:
   email: "untccsi@gmail.com"
   facebook: UNT-Cyber-Security-Intelligence-Club-333014433722890 
   github: UNTCyberSecurity
-  twitter: UntCcsi
-  #discord: j3D5Zdp
+  twitter: UNT_CSC
+  discord: j3D5Zdp
 #  reddit: yourname
 #  google-plus: +DeanAttali
 #  linkedin: daattali
@@ -114,7 +113,7 @@ social-network-links:
 # Select which share links to show in posts
 share-links-active:
   twitter: true
-  facebook: false
+  facebook: true
   email: false
   linkedin: true
 
@@ -155,6 +154,7 @@ paginate: 5
 kramdown:
   input: GFM
 paginate_path: "/blog/page:num/" #add this url to host blog under different url
+
 # Default YAML values (more information on Jekyll's site)
 defaults:
   -

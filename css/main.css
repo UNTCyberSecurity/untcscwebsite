@@ -793,4 +793,6 @@ td.gutter {
 
 .typewrite { color:#f44242; text-decoration: none;} /*Type write effect color added by allan Chang*/
 
-
+#social-share-section svg {
+  top: 5px;
+}
