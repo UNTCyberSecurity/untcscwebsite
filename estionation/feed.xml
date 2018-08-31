@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Cyber Security Club</title>
+    <description>Cybercop wannabees</description>
+    <link>https://untcybersecurity.com</link>
+    <atom:link href="https://untcybersecurity.com/feed.xml" rel="self" type="application/rss+xml" />
+    
+      <item>
+        <title>Meeting Notes - Cloudbleed, SHA1, and Wireshark</title>
+        <description>
+          
+          Meeting time change, SHA1 collisions, CloudBleed, and WireShark demo! At todays meeting we discussed: Moving the meeting time ahead 30 minutes (3:30 - 4:30) Upcoming LAN Party CloudBleed SHA1’s first collision WireShark demo Meeting Time Change Since the beginning of this semester we have had a large increase in new...
+        </description>
+        <pubDate>Fri, 24 Feb 2017 00:00:00 -0800</pubDate>
+        <link>https://untcybersecurity.com/2017-02-24-meetingnotes/</link>
+        <guid isPermaLink="true">https://untcybersecurity.com/2017-02-24-meetingnotes/</guid>
+      </item>
+    
+      <item>
+        <title>First post!</title>
+        <description>
+          
+          This is the very first post of the Cyber Security Club site! In the coming future this is where our newletters and blog posts will be For now enjoy this quote from William Gibson’s Johnny Mnemonic “We’re an information economy. They teach you that in school. What they don’t tell...
+        </description>
+        <pubDate>Thu, 23 Feb 2017 00:00:00 -0800</pubDate>
+        <link>https://untcybersecurity.com/2017-02-23-first-post/</link>
+        <guid isPermaLink="true">https://untcybersecurity.com/2017-02-23-first-post/</guid>
+      </item>
+    
+  </channel>
+</rss>

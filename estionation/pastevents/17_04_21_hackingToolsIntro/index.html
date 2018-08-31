@@ -1,0 +1,467 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>Hacking Hardware Tools - April 21st, 2017</title>
+
+  <meta name="author" content="UNT Cyber Security Club" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Cyber Security Club - Cybercop wannabees" href="/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="Hacking Hardware Tools - April 21st, 2017" />
+  
+
+   
+  <meta property="og:description" content="Date: Friday April 21st, 2017 Time: 3:00 - 5:00 P.M. Where: Discovery Park B140 Join us this Friday as we teach you how to use some hacking hardware from Hak5! Tools we will be going over: Wifi Pineapple: A device that’s about redirecting devices on wifi to connect to you...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="https://untcybersecurity.com/pastevents/17_04_21_hackingToolsIntro/" />
+  <link rel="canonical" href="https://untcybersecurity.com/pastevents/17_04_21_hackingToolsIntro/" />
+  
+
+  
+  <meta property="og:image" content="https://untcybersecurity.com/img/logo_fill.png" />
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="Hacking Hardware Tools - April 21st, 2017" />
+  
+
+  
+  <meta name="twitter:description" content="Date: Friday April 21st, 2017 Time: 3:00 - 5:00 P.M. Where: Discovery Park B140 Join us this Friday as we teach you how to use some hacking hardware from Hak5! Tools we will be going over: Wifi Pineapple: A device that’s about redirecting devices on wifi to connect to you...">
+  
+
+  
+  <meta name="twitter:image" content="https://untcybersecurity.com/img/logo_fill.png" />
+  
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="https://untcybersecurity.com">Cyber Security Club</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About</a>
+            <div class="navlinks-children">
+              
+                
+                  
+
+
+
+
+
+
+<a href="/about">About Us</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+
+<a href="/blog">Blog/Newsletters</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Resources</a>
+            <div class="navlinks-children">
+              
+                
+                  
+
+
+
+
+
+
+<a href="/discord">Our Discord</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="https://www.owasp.org/index.php/Main_Page">OWASP</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="http://forensicswiki.org/wiki/Main_Page">Forensics Wiki</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="http://opensecuritytraining.info/Welcome.html">Open Security Training</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Events</a>
+            <div class="navlinks-children">
+              
+                
+                  
+
+
+
+
+
+
+<a href="/Slides">Meeting Slides And Notes</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/events">Upcoming/Past</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/ncl">NCL</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/ultimatechallenge">Ultimate Challenge</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/signin">Sign-In</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="https://untcybersecurity.com ">
+	      <img class="avatar-img" src="/img/logo_fill.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>Hacking Hardware Tools - April 21st, 2017</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <dive class="event">
+  <h2><center><img src="/img/logos/hak5_logo.png" alt="event.title" /></center>Hacking Hardware Tools - April 21st, 2017</h2>
+
+  <div class="blog-post spacing">
+    <p><strong>Date:</strong> Friday April 21st, 2017</p>
+
+<p><strong>Time:</strong> 3:00 - 5:00 P.M.</p>
+
+<p><strong>Where:</strong> Discovery Park B140</p>
+
+<p>Join us this Friday as we teach you how to use some hacking hardware <a href="https://www.hak5.org/">from Hak5</a>!</p>
+
+<p>Tools we will be going over:</p>
+
+<ul>
+  <li>
+    <p><a href="https://hakshop.com/products/wifi-pineapple">Wifi Pineapple</a>: A device that’s about redirecting devices on wifi to connect to you so you can be the ultimate busy body</p>
+  </li>
+  <li>
+    <p><a href="https://hakshop.com/products/usb-rubber-ducky-deluxe">Rubber Ducky</a>: A keystroke injection tool with an easy to learn scripting language</p>
+  </li>
+  <li>
+    <p><a href="https://hakshop.com/products/bash-bunny">Bash Bunny</a>: An attack computer on a flash drive, the Bash Bunny not only tricks the target into thinking it’s a multitude of devices but it is also a Linux box with terminal access</p>
+  </li>
+  <li>
+    <p><a href="https://hakshop.com/products/lan-turtle">LAN Turtle</a>: A piece of hardware that’s designed to look like a generic IT device but when plugged in gives the penetration tester remote access to the device and network</p>
+  </li>
+  <li>
+    <p><a href="https://www.raspberrypi.org/">Raspberry Pi 3</a>: A small computer that can be used for a variety of projects. At this demo we’re going to be going over how we can set this up with Kali Linux</p>
+  </li>
+</ul>
+
+<h1 id="faq">FAQ</h1>
+
+<p><strong>Who can Attend?</strong></p>
+
+<p>Anyone, you don’t even need to be a club member!</p>
+
+<p><strong>How much is it?</strong></p>
+
+<p>FREE</p>
+
+<p><strong>I don’t know anything about this kind of thing</strong></p>
+
+<p>This events all about teaching you about these things, we don’t expect you to know anything.</p>
+
+<h1 id="important-note-all-information-you-learn-is-for-educational-purposes-and-testing-against-systems-you-have-permission-to-test-on">IMPORTANT NOTE: All information you learn is for educational purposes and testing against systems you have permission to test on</h1>
+
+  </div>
+</div>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">RSS</span>
+              </a>
+            </li><li><a href="mailto:untccsi@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li><li><a href="https://www.facebook.com/UNT-Cyber-Security-Intelligence-Club-333014433722890" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li><li><a href="https://github.com/UNTCyberSecurity" title="GitHub"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">GitHub</span>
+              </a>
+            </li><li><a href="https://twitter.com/UntCcsi" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Twitter</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      UNT Cyber Security Club
+      &nbsp;&bull;&nbsp;
+      2018
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>

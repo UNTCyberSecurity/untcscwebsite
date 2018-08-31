@@ -1,0 +1,507 @@
+<!DOCTYPE html>
+<html lang="en">
+  <!-- Beautiful Jekyll | MIT license | Copyright Dean Attali 2016 -->
+  <head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0">
+
+  <title>National Cyber League</title>
+
+  <meta name="author" content="UNT Cyber Security Club" />
+
+  
+
+  <link rel="alternate" type="application/rss+xml" title="Cyber Security Club - Cybercop wannabees" href="/feed.xml" />
+
+  
+
+  
+    
+      
+  <link rel="stylesheet" href="//maxcdn.bootstrapcdn.com/font-awesome/4.6.0/css/font-awesome.min.css" />
+
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="/css/bootstrap.min.css" />
+    
+      <link rel="stylesheet" href="/css/bootstrap-social.css" />
+    
+      <link rel="stylesheet" href="/css/main.css" />
+    
+  
+
+  
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic" />
+    
+      <link rel="stylesheet" href="//fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800" />
+    
+  
+
+  
+
+  
+
+  
+
+    <!-- Facebook OpenGraph tags -->
+  
+
+  
+  <meta property="og:title" content="National Cyber League" />
+  
+
+   
+  <meta property="og:description" content="{% for image in page.images %} {{image.title}} {% endfor %} ### What is National Cyber League? [National Cyber League](https://www.nationalcyberleague.org/) (NCL) is a program for providing participants a place to develop and practice their cyber security skills. NCL will provide a series of challenges for both individuals (pre/regular season) and teams...">
+  
+
+
+  <meta property="og:type" content="website" />
+
+  
+  <meta property="og:url" content="https://untcybersecurity.com/ncl/" />
+  <link rel="canonical" href="https://untcybersecurity.com/ncl/" />
+  
+
+  
+  <meta property="og:image" content="https://untcybersecurity.com/img/logo_fill.png" />
+  
+  
+
+  <!-- Twitter summary cards -->
+  <meta name="twitter:card" content="summary" />
+  <meta name="twitter:site" content="@" />
+  <meta name="twitter:creator" content="@" />
+
+  
+  <meta name="twitter:title" content="National Cyber League" />
+  
+
+  
+  <meta name="twitter:description" content="{% for image in page.images %} {{image.title}} {% endfor %} ### What is National Cyber League? [National Cyber League](https://www.nationalcyberleague.org/) (NCL) is a program for providing participants a place to develop and practice their cyber security skills. NCL will provide a series of challenges for both individuals (pre/regular season) and teams...">
+  
+
+  
+  <meta name="twitter:image" content="https://untcybersecurity.com/img/logo_fill.png" />
+  
+
+</head>
+
+
+  <body>
+
+    
+  
+    <nav class="navbar navbar-default navbar-fixed-top navbar-custom">
+  <div class="container-fluid">
+    <div class="navbar-header">
+      <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#main-navbar">
+        <span class="sr-only">Toggle navigation</span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+        <span class="icon-bar"></span>
+      </button>
+      
+        <a class="navbar-brand" href="https://untcybersecurity.com">Cyber Security Club</a>
+      
+    </div>
+
+    <div class="collapse navbar-collapse" id="main-navbar">
+      <ul class="nav navbar-nav navbar-right">
+      
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">About</a>
+            <div class="navlinks-children">
+              
+                
+                  
+
+
+
+
+
+
+<a href="/about">About Us</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li>
+            
+
+
+
+
+
+
+<a href="/blog">Blog/Newsletters</a>
+
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Resources</a>
+            <div class="navlinks-children">
+              
+                
+                  
+
+
+
+
+
+
+<a href="/discord">Our Discord</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="https://www.owasp.org/index.php/Main_Page">OWASP</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="http://forensicswiki.org/wiki/Main_Page">Forensics Wiki</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="http://opensecuritytraining.info/Welcome.html">Open Security Training</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+        
+          <li class="navlinks-container">
+            <a class="navlinks-parent" href="javascript:void(0)">Events</a>
+            <div class="navlinks-children">
+              
+                
+                  
+
+
+
+
+
+
+<a href="/Slides">Meeting Slides And Notes</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/events">Upcoming/Past</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/ncl">NCL</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/ultimatechallenge">Ultimate Challenge</a>
+
+                
+              
+                
+                  
+
+
+
+
+
+
+<a href="/signin">Sign-In</a>
+
+                
+              
+            </div>
+          </li>
+        
+        
+      </ul>
+    </div>
+
+	
+	<div class="avatar-container">
+	  <div class="avatar-img-border">
+	    <a href="https://untcybersecurity.com ">
+	      <img class="avatar-img" src="/img/logo_fill.png" />
+		</a>
+	  </div>
+	</div>
+	
+
+  </div>
+</nav>
+
+
+    <!-- TODO this file has become a mess, refactor it -->
+
+
+
+
+
+<header class="header-section ">
+
+<div class="intro-header no-img">
+  <div class="container">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <div class="page-heading">
+          <h1>National Cyber League</h1>
+		  
+		  
+		  
+        </div>
+      </div>
+    </div>
+  </div>
+</div>
+</header>
+
+
+
+
+<div class="container" role="main">
+  <div class="row">
+    <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+      <style>
+img {
+  width: 100%;
+  height: auto;
+}
+</style>
+
+<div class="photo-gallery">
+  
+  <li style="list-style-type:none">
+    <center>
+      <a href="">
+        <img src="/img/NCL_PAGE.png" alt="" />
+      </a>
+      
+    </center>
+  </li>
+  
+</div>
+
+<h3 id="what-is-national-cyber-league">What is National Cyber League?</h3>
+
+<p><a href="https://www.nationalcyberleague.org/">National Cyber League</a> (NCL) is a program for providing participants a place to develop and practice their cyber security skills.</p>
+
+<p>NCL will provide a series of challenges for both individuals (pre/regular season) and teams (postseason) to compete and then rank them against their peers.</p>
+
+<div class="video-holder">
+  <iframe width="560" height="315" src="https://www.youtube.com/embed/E0-pAP283zk" frameborder="0" allowfullscreen=""></iframe>
+</div>
+
+<h3 id="why-should-i-participate">Why should I participate?</h3>
+
+<ol>
+  <li>You get good experience with various aspects of cyber security</li>
+  <li>You will learn something new almost guaranteed, we have had members site NCL as the reason they passed cert exams</li>
+  <li>It’s a lot of fun</li>
+  <li>Being able to list “I competed in National Cyber League” on a resume</li>
+  <li>Facebook and other major tech companies sponsor the event and will be looking over results</li>
+  <li>At the end you get a cool scouting report for yourself that looks like <a href="https://media.wix.com/ugd/766e9a_909c9c29f721456dba14fa92039730fa.pdf">this</a>(PDF)</li>
+</ol>
+
+<h3 id="i-dont-know-anything-about-cyber-security-though">I don’t know anything about cyber security though</h3>
+
+<p>That’s okay a lot of our members start out in the same position! A number of challenges in NCL can be solved just by knowing how to use Google to look up the information you need. Be sure to check out our public resources here on the site as well, often times after an event we will have come across resources that really helped us and have put them up on it. The gymnasium you get access to through NCL also has a ton of tutorials on it that can help you out!</p>
+
+<h3 id="how-does-registration-work">How does registration work?</h3>
+
+<p><a href="https://ncl.cyberskyline.com/events/ncl/fall/regular">From February 28th to March 25th registration is open</a>. Sign up fee is $25.</p>
+
+<p>When it asks for Faculty/Coach please use Dr. Takabi’s information:</p>
+
+<ul>
+  <li>Hassan Takabi</li>
+  <li>his_last_name[at]unt.edu</li>
+</ul>
+
+<h3 id="important-dates">Important Dates</h3>
+
+<table>
+  <tbody>
+    <tr>
+      <td>2/26 - 3/25</td>
+      <td>Regular Season Registration (late registration of $35 is 3/26- 11:59 p.m. ET 3/28)</td>
+    </tr>
+    <tr>
+      <td>2/26 - 4/25</td>
+      <td>Postseason Registration (must have played regular season to play postseason)</td>
+    </tr>
+    <tr>
+      <td>3/30 - 5/25</td>
+      <td>Gym Training</td>
+    </tr>
+    <tr>
+      <td>4/4 - 4/10</td>
+      <td>Preseason Game</td>
+    </tr>
+    <tr>
+      <td>4/13- 4/15</td>
+      <td>Regular Season Game</td>
+    </tr>
+    <tr>
+      <td>4/27- 4/29</td>
+      <td>Postseason Game</td>
+    </tr>
+    <tr>
+      <td>5/25</td>
+      <td>Spring Season Ends</td>
+    </tr>
+  </tbody>
+</table>
+
+	    
+    </div>
+  </div>
+</div>
+
+
+    <footer>
+  <div class="container beautiful-jekyll-footer">
+    <div class="row">
+      <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+        <ul class="list-inline text-center footer-links"><li><a href="/feed.xml" title="RSS"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-rss fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">RSS</span>
+              </a>
+            </li><li><a href="mailto:untccsi@gmail.com" title="Email me"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-envelope fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Email me</span>
+              </a>
+            </li><li><a href="https://www.facebook.com/UNT-Cyber-Security-Intelligence-Club-333014433722890" title="Facebook"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-facebook fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Facebook</span>
+              </a>
+            </li><li><a href="https://github.com/UNTCyberSecurity" title="GitHub"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-github fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">GitHub</span>
+              </a>
+            </li><li><a href="https://twitter.com/UntCcsi" title="Twitter"><span class="fa-stack fa-lg" aria-hidden="true">
+                  <i class="fa fa-circle fa-stack-2x"></i>
+                  <i class="fa fa-twitter fa-stack-1x fa-inverse"></i>
+                </span>
+                <span class="sr-only">Twitter</span>
+              </a>
+            </li></ul>
+      <p class="copyright text-muted">
+      UNT Cyber Security Club
+      &nbsp;&bull;&nbsp;
+      2018
+
+      
+      </p>
+          <!-- Please don't remove this, keep my open source work credited :) -->
+    <p class="theme-by text-muted">
+      Theme by
+      <a href="http://deanattali.com/beautiful-jekyll/">beautiful-jekyll</a>
+    </p>
+      </div>
+    </div>
+  </div>
+</footer>
+
+  
+    
+
+
+
+
+
+
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+      <script>
+      	if (typeof jQuery == 'undefined') {
+      	  document.write('<script src="/js/jquery-1.11.2.min.js"></scr' + 'ipt>');
+      	}
+      </script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/bootstrap.min.js"></script>
+    
+  
+    <!-- doing something a bit funky here because I want to be careful not to include JQuery twice! -->
+    
+	<script src="/js/main.js"></script>
+    
+  
+
+
+
+
+  
+  </body>
+</html>
