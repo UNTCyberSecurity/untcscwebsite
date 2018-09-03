@@ -31,7 +31,7 @@ The rule is simple, go to [vulnhub](https://www.vulnhub.com/) download a box you
 
 ## How to gain Points?
 
-In order to earn points and get a prize in the end of the semester, you will need to send screenshots for finding the flags and gaining the Root access to ! **make sure you include your NAME in the SCREENSHOT** After you done all this, send your screenshots to [club email address](untccsi@gmail.com) 
+In order to earn points and get a prize in the end of the semester, you will need to send screenshots for finding the flags and gaining the Root access to ! **make sure you include your NAME in the SCREENSHOT**, After you done all this, send your screenshots to untccsi@gmail.com
 
 Each box worth 100 points after you complete all the flags in it. Online Walkthrough are allowed, all is about learning and we know everyone needs a place to start! But if you did a box that does not have many detalis or walkthrough (aka hard), we will give you extra points! **Imagine yourself are doing a black box pen-testing**
 
