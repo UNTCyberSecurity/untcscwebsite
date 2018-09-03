@@ -6,6 +6,21 @@ images:
   - image_path: /img/hacking1.jpg
 ---
 
+
+<div class="photo-gallery">
+  {% for image in page.images %}
+  <li style="list-style-type:none">
+    <center>
+      <a href="{{image.link}}">
+        <img src="{{ image.image_path }}" alt="{{ image.title }}">
+      </a>
+      {{image.title}}
+    </center>
+  </li>
+  {% endfor %}
+</div>
+
+
 # Introduction
 
 we launched a new weekly challenge game start in Fall 2018! This is a challenge game aims to improve your black/white boxes pen-testing skills! We aim to help you being more comfortable when you go to compete real CTF games through practicing!
