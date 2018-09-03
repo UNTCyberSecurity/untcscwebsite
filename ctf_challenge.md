@@ -6,15 +6,15 @@ images:
   - image_path: /img/hacking1.jpg
 ---
 
-#Introduction
+# Introduction
 
 we launched a new weekly challenge game start in Fall 2018! This is a challenge game aims to improve your black/white boxes pen-testing skills! We aim to help you being more comfortable when you go to compete real CTF games through practicing!
 
-##The Rule
+## The Rule
 
 The rule is simple, go to [vulnhub](https://www.vulnhub.com/) download a box you perfer, then gain Root access and find the flags in the box. There are different hints or rules might different in each box, just follow the author's instuctions !
 
-##How to gain Points?
+## How to gain Points?
 
 In order to earn points and get a prize in the end of the semester, you will need to send screenshots for finding the flags and gaining the Root access to ! **make sure you include your NAME in the SCREENSHOT** After you done all this, send your screenshots to [club email address](untccsi@gmail.com) 
 
@@ -29,7 +29,7 @@ Some hints for set up the lab:
 
 **After you download a ova box, make sure you set your attcking machine(kali) and the victim machine(the box) in a same NATNetWork, which allows those machines see each other in a LAN!!!! Really Important!!**
 
-##SCOREBOARD
+## SCOREBOARD
 
 **You can see your rank in [here](https://scoreboard.untcybersecurity.com/)** 
 
