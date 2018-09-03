@@ -33,6 +33,7 @@ navbar-links:
     - Forensics Wiki: "http://forensicswiki.org/wiki/Main_Page"
     - Open Security Training: "http://opensecuritytraining.info/Welcome.html"
   Events:
+    - Vulnhub Challenge: "ctf_challenge"
     - Meeting Slides And Notes: "Slides"
     - Upcoming/Past: "events"
     - NCL: "ncl"
