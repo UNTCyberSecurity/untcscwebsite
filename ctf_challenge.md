@@ -37,6 +37,11 @@ Each box worth 100 points after you complete all the flags in it. Online Walkthr
 
 Bonus Points: 
 If you submit a report for what you find during your hacking, we will give you extra points! A good pen-tester not only know how to break stuffs, he/she also knows how to communicate well! 
+
+**Points breakdown**
+Completion a box : 100
+Submit a report : 50
+A hard box : 50
  
 **Highest score person will receive a prize in the end of the semester!**
 
