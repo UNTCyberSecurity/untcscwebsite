@@ -40,7 +40,9 @@ If you submit a report for what you find during your hacking, we will give you e
 
 **Points breakdown**
 Completion a box : 100
+
 Submit a report : 50
+
 A hard box : 50
  
 **Highest score person will receive a prize in the end of the semester!**
