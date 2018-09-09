@@ -39,7 +39,8 @@ Bonus Points:
 If you submit a report for what you find during your hacking, we will give you extra points! A good pen-tester not only know how to break stuffs, he/she also knows how to communicate well! 
 
 **Points breakdown**
-Completion a box : 100
+
+Completing a box : 100
 
 Submit a report : 50
 
