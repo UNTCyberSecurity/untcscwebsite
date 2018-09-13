@@ -54,7 +54,7 @@ That's okay a lot of our members start out in the same position! A number of cha
 
 ### How does registration work?
 
-[From February 28th to March 25th registration is open](https://ncl.cyberskyline.com/events/ncl/fall/regular). Sign up fee is $25.
+[From Aug 27th to Sep 28th registration is open](https://ncl.cyberskyline.com/events/ncl/fall/regular). Sign up fee is $25.
 
 When it asks for Faculty/Coach please use Dr. Takabi's information:
 
@@ -63,10 +63,10 @@ When it asks for Faculty/Coach please use Dr. Takabi's information:
 
 ### Important Dates
 
-| 2/26 - 3/25   | Regular Season Registration (late registration of $35 is 3/26- 11:59 p.m. ET 3/28) |
-| 2/26 - 4/25   | Postseason Registration (must have played regular season to play postseason) |
-| 3/30 - 5/25   | Gym Training         			|
-| 4/4 - 4/10 	  | Preseason Game                |
-| 4/13- 4/15   | Regular Season Game           |
-| 4/27- 4/29 	| Postseason Game               |
-| 5/25 			| Spring Season Ends            |
+| 8/27 - 9/28   | Regular Season Registration (late registration of $35 is 3/26- 11:59 p.m. ET 3/28) |
+| 8/27 - 11/9   | Postseason Registration (must have played regular season to play postseason) |
+| 10/08 - 12/15   | Gym Training         			|
+| 10/19 - 10/27 	  | Preseason Game                |
+| 11/02- 11/04   | Regular Season Game           |
+| 11/16- 11/18 	| Postseason Game               |
+| 12/15 			| Fall Season Ends            |

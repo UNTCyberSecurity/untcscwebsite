@@ -47,4 +47,6 @@ title: Meeting Slides And Meeting Notes
 
 <script async class="speakerdeck-embed" data-id="fac23585f70a439c92fc5bf0b7dc3d84" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<script async class="speakerdeck-embed" data-id="f932441e552045a89e9d845d8f10e1bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<script async class="speakerdeck-embed" data-id="d556e984875b459d9f120cb4b27057f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
