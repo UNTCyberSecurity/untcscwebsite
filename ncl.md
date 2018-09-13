@@ -63,7 +63,7 @@ When it asks for Faculty/Coach please use Dr. Takabi's information:
 
 ### Important Dates
 
-| 8/27 - 9/28   | Regular Season Registration (late registration of $35 is 9/29- 10/2 11:59 p.m. ET 3/28) |
+| 8/27 - 9/28   | Regular Season Registration (late registration of $35 is 9/29- 10/2 11:59 p.m. ) |
 | 8/27 - 11/9   | Postseason Registration (must have played regular season to play postseason) |
 | 10/08 - 12/15   | Gym Training         			|
 | 10/19 - 10/27 	  | Preseason Game                |
