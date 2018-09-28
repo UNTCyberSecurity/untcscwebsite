@@ -35,26 +35,30 @@ In order to earn points and get a prize in the end of the semester, you will nee
 
 Each box worth 100 points after you complete all the flags in it. Online Walkthrough are allowed, all is about learning and we know everyone needs a place to start! But if you did a box that does not have many detalis or walkthrough (aka hard), we will give you extra points! **Imagine yourself are doing a black box pen-testing**
 
-Bonus Points: 
-If you submit a report for what you find during your hacking, we will give you extra points! A good pen-tester not only know how to break stuffs, he/she also knows how to communicate well! 
+Bonus Points:
+If you submit a report for what you find during your hacking, we will give you extra points! A good pen-tester not only know how to break stuffs, he/she also knows how to communicate well!
 
 **Points breakdown**
 
 Completing a box : 100
 
-Submit a report : 50
+Submit a report : 50 (could be walkthrough or pen-testing report)
 
-A hard box : 50
- 
+Intermediate Level: 10
+
+Medium Level to hard level: 25
+
+A hard box (OSCP type) : 50
+
 **Highest score person will receive a prize in the end of the semester!**
 
-Some hints for set up the lab: 
+Some hints for set up the lab:
 
 **After you download a ova box, make sure you set your attcking machine(kali) and the victim machine(the box) in a same NATNetWork, which allows those machines see each other in a LAN!!!! Really Important!!**
 
 ## SCOREBOARD
 
-**You can see your rank in [here](https://scoreboard.untcybersecurity.com/)** 
+**You can see your rank in [here](https://scoreboard.untcybersecurity.com/)**
 
 
 <div class="responsive-wrap">
