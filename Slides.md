@@ -9,6 +9,8 @@ title: Meeting Slides And Meeting Notes
 
 <script async class="speakerdeck-embed" data-id="d556e984875b459d9f120cb4b27057f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
+<script async class="speakerdeck-embed" data-id="02f4cad2528941a082a5d8aac18c3bd4" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
 ### Our first meeting in Spirng 2018! Jan 25/2018
 
 # At todays meeting we discussed:
