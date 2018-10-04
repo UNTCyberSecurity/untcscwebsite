@@ -4,6 +4,10 @@ title: Meeting Slides And Meeting Notes
 ---
 
 ### In here, You will find weekly meeting slides and notes if you missed a meeting!
+### Our first meeting in Fall 2018! 09/ 06/2018
+<script async class="speakerdeck-embed" data-id="f932441e552045a89e9d845d8f10e1bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script async class="speakerdeck-embed" data-id="d556e984875b459d9f120cb4b27057f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ### Our first meeting in Spirng 2018! Jan 25/2018
 
@@ -15,9 +19,7 @@ title: Meeting Slides And Meeting Notes
 
 <div><a href="https://untcybersecurity.com/meeting_notes/First_Meeting_CCSI.pdf" target="_blank">You can read this meeting's notes at here</a></div>
 
-<script async class="speakerdeck-embed" data-id="f932441e552045a89e9d845d8f10e1bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
-<script async class="speakerdeck-embed" data-id="d556e984875b459d9f120cb4b27057f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Our first meeting slides
 
