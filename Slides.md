@@ -11,9 +11,13 @@ title: Meeting Slides And Meeting Notes
 
 * Sqlmap,Wp Scan, and Google dorks demo
 * Cyber Secuirty Club Programming sub-group
-* Demo of Robber Ducky 
+* Demo of Robber Ducky
 
 <div><a href="https://untcybersecurity.com/meeting_notes/First_Meeting_CCSI.pdf" target="_blank">You can read this meeting's notes at here</a></div>
+
+<script async class="speakerdeck-embed" data-id="f932441e552045a89e9d845d8f10e1bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+<script async class="speakerdeck-embed" data-id="d556e984875b459d9f120cb4b27057f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 ## Our first meeting slides
 
@@ -23,7 +27,7 @@ title: Meeting Slides And Meeting Notes
 
 # At todays meeting we discussed:
 
-* Different ways to stay in pravicy, such as Signal, VPN, Tor and proxychains 
+* Different ways to stay in pravicy, such as Signal, VPN, Tor and proxychains
 * Cyber Secuirty Club Programming sub-group
 * Demo for Tor and proxychains
 
@@ -46,7 +50,3 @@ title: Meeting Slides And Meeting Notes
 <script async class="speakerdeck-embed" data-id="e41ba43af03a4cfe87a7781e5409bf4d" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
 <script async class="speakerdeck-embed" data-id="fac23585f70a439c92fc5bf0b7dc3d84" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
-<script async class="speakerdeck-embed" data-id="f932441e552045a89e9d845d8f10e1bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
-
-<script async class="speakerdeck-embed" data-id="d556e984875b459d9f120cb4b27057f7" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
