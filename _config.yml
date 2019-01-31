@@ -27,6 +27,7 @@ navbar-links:
     - About Us: "about"
   Blog/Newsletters: "blog"
   Resources:
+    - Pentesterlab: https://pentesterlab.com/
     - NCL Resources: "nclresource"
     - Our Discord: "discord"
     - OWASP: "https://www.owasp.org/index.php/Main_Page"
