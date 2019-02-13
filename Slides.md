@@ -4,6 +4,22 @@ title: Meeting Slides And Meeting Notes
 ---
 
 ### In here, You will find weekly meeting slides and notes if you missed a meeting!
+
+
+### 2019 second meeting
+
+<script async class="speakerdeck-embed" data-id="704c345c45f94b9789af41c6be00a16a" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+### Our first meeting in Spring 2019!
+<script async class="speakerdeck-embed" data-id="7396ea7260224ac4aa64acea551fddcc" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
+
+
+
+
+
+
+
+
 ### Our first meeting in Fall 2018! 09/ 06/2018
 <script async class="speakerdeck-embed" data-id="f932441e552045a89e9d845d8f10e1bb" data-ratio="1.77777777777778" src="//speakerdeck.com/assets/embed.js"></script>
 
