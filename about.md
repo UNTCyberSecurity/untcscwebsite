@@ -16,7 +16,7 @@ Yes! We don't expect you to be an engineering major or have any super in depth k
 
 ### When and where do you meet?
 
-We normally meet on Thursday from 5:00 P.M. to 6:00 P.M. at Discovery Park in B155. Be sure to check our calendar as that will have the most up to date information in case there is an event going on that has us located somewhere else.
+We normally meet on Thursday from 5:30 P.M. to 6:30 P.M. at UNT UNION 255. Be sure to check our calendar as that will have the most up to date information in case there is an event going on that has us located somewhere else.
 
 If you need to take the bus be sure to check out the [Discovery Park bus route](http://transportation.unt.edu/transit/maps-routes/discovery-park).
 
